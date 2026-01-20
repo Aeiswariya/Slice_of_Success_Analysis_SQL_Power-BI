@@ -85,7 +85,7 @@ The dataset contains:
 **Aeiswariya Panigrahi**  
 Aspiring Data Analyst | SQL | Python | Power BI  | Excel
 📧 Email: aeiswariyapanigrahi@gmail.com 
-🔗 LinkedIn: your-linkedin-url  
+🔗 LinkedIn: https://www.linkedin.com/in/sushree-aeiswariya-panigrahi-7b8ba022b/  
 
 ---
 
